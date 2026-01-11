@@ -2,7 +2,7 @@
   # Overview
 * This project is a afully automated buisness analysis system built in Python that:
   - Reads Daily Sales Summary (.txt)
-  - Compares Today vs Last 6-7 days
+  - Compares Today V/s Last 6-7 days
   - Generate Buisness Insights
   - Triggers intelliget alerts based on configurable rules
   - Sends a clear, Owner Friendly Email report with attachment
