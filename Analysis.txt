@@ -1,0 +1,19 @@
+Business Analysis Report : 2026-01-10
+--------------------------------------------------
+Total Sales Today : 89800.0
+6-Day Average Sales : 74142.85714285714
+Cash Sales Today : 38600.0
+6-Day Avg Cash Sales : 32571.428571428572
+Credit Sales Today : 51200.0
+6-Day Avg Credit Sales : 41571.42857142857
+Pending Orders Today : 2
+
+*Automation by System Admin
+--------------------------------------------------
+Pending Overview: 2 pending today | 
+ 7-day average: 3.9 | 
+Total pending (7 days): 27.0 | 
+
+WARNING: Average pending orders over last 7 days is high (3.9).
+Impact: Increased operational backlog.
+Action: Identify and clear orders older than 3 days.
