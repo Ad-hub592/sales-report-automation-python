@@ -1,3 +1,4 @@
+## OUTPUT FILE ##
 Business Analysis Report : 2026-01-10
 --------------------------------------------------
 Total Sales Today : 89800.0
@@ -16,4 +17,5 @@ Total pending (7 days): 27.0 |
 
 WARNING: Average pending orders over last 7 days is high (3.9).
 Impact: Increased operational backlog.
+
 Action: Identify and clear orders older than 3 days.
